@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Client
+  - SceneController
+  - WaypointA
+  - WaypointB
+  - WaypointC
+  - WaypointD
+  - WaypointE
+  - Vector0
+  - WaypointA1
+  - WaypointA2
+  - WaypointA3
+  - WaypointD1
+  - WaypointD2
+  - WaypointD3
+  - WaypointE1
+  - WaypointE2
+  - WaypointE3
+  - WaypointE4
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
